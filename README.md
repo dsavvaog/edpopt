@@ -282,7 +282,9 @@ cache line size 128 bytes: 0,202066544 J, EDP = 0,026082345
 
 **Ακολουθούν τα διαγράμματα που δείχνουν την επίδραση κάθε παράγοντα στο peak power:**
 
-
+![Pie Charts](/bzip.png) ![Pie Charts](/mcf.png)
+![Pie Charts](/hmmer.png) ![Pie Charts](/sjeng.png)
+![Pie Charts](/lbm.png)
 
 
 
