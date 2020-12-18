@@ -1,0 +1,16 @@
+./mcpat -infile libm_default.xml -print_level 5 > libm_default.txt
+./mcpat -infile libm_l1d32.xml -print_level 5 > libm_l1d32.txt
+./mcpat -infile libm_l1d128.xml -print_level 5 > libm_l1d128.txt
+./mcpat -infile libm_l1da8.xml -print_level 5 > libm_l1da8.txt
+./mcpat -infile libm_l1da16.xml -print_level 5 > libm_l1da16.txt
+./mcpat -infile libm_l1i64.xml -print_level 5 > libm_l1i64.txt
+./mcpat -infile libm_l1i128.xml -print_level 5 > libm_l1i128.txt
+./mcpat -infile libm_l1ia8.xml -print_level 5 > libm_l1ia8.txt
+./mcpat -infile libm_l1ia16.xml -print_level 5 > libm_l1ia16.txt
+./mcpat -infile libm_l21024.xml -print_level 5 > libm_l21024.txt
+./mcpat -infile libm_l24096.xml -print_level 5 > libm_l24096.txt
+./mcpat -infile libm_l2a64.xml -print_level 5 > libm_l2a64.txt
+./mcpat -infile libm_l2a512.xml -print_level 5 > libm_l2a512.txt
+./mcpat -infile libm_cl32.xml -print_level 5 > libm_cl32.txt
+./mcpat -infile libm_cl128.xml -print_level 5 > libm_cl128.txt
+

@@ -1,0 +1,16 @@
+./mcpat -infile hmmer_default.xml -print_level 5 > hmmer_default.txt
+./mcpat -infile hmmer_l1d32.xml -print_level 5 > hmmer_l1d32.txt
+./mcpat -infile hmmer_l1d128.xml -print_level 5 > hmmer_l1d128.txt
+./mcpat -infile hmmer_l1da8.xml -print_level 5 > hmmer_l1da8.txt
+./mcpat -infile hmmer_l1da16.xml -print_level 5 > hmmer_l1da16.txt
+./mcpat -infile hmmer_l1i64.xml -print_level 5 > hmmer_l1i64.txt
+./mcpat -infile hmmer_l1i128.xml -print_level 5 > hmmer_l1i128.txt
+./mcpat -infile hmmer_l1ia8.xml -print_level 5 > hmmer_l1ia8.txt
+./mcpat -infile hmmer_l1ia16.xml -print_level 5 > hmmer_l1ia16.txt
+./mcpat -infile hmmer_l21024.xml -print_level 5 > hmmer_l21024.txt
+./mcpat -infile hmmer_l24096.xml -print_level 5 > hmmer_l24096.txt
+./mcpat -infile hmmer_l2a32.xml -print_level 5 > hmmer_l2a32.txt
+./mcpat -infile hmmer_l2a128.xml -print_level 5 > hmmer_l2a128.txt
+./mcpat -infile hmmer_cl32.xml -print_level 5 > hmmer_cl32.txt
+./mcpat -infile hmmer_cl128.xml -print_level 5 > hmmer_cl128.txt
+

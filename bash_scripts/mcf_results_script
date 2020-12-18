@@ -1,0 +1,16 @@
+./mcpat -infile mcf_default.xml -print_level 5 > mcf_default.txt
+./mcpat -infile mcf_l1d32.xml -print_level 5 > mcf_l1d32.txt
+./mcpat -infile mcf_l1d128.xml -print_level 5 > mcf_l1d128.txt
+./mcpat -infile mcf_l1da8.xml -print_level 5 > mcf_l1da8.txt
+./mcpat -infile mcf_l1da16.xml -print_level 5 > mcf_l1da16.txt
+./mcpat -infile mcf_l1i64.xml -print_level 5 > mcf_l1i64.txt
+./mcpat -infile mcf_l1i128.xml -print_level 5 > mcf_l1i128.txt
+./mcpat -infile mcf_l1ia4.xml -print_level 5 > mcf_l1ia4.txt
+./mcpat -infile mcf_l1ia16.xml -print_level 5 > mcf_l1ia16.txt
+./mcpat -infile mcf_l21024.xml -print_level 5 > mcf_l21024.txt
+./mcpat -infile mcf_l24096.xml -print_level 5 > mcf_l24096.txt
+./mcpat -infile mcf_l2a32.xml -print_level 5 > mcf_l2a32.txt
+./mcpat -infile mcf_l2a128.xml -print_level 5 > mcf_l2a128.txt
+./mcpat -infile mcf_cl32.xml -print_level 5 > mcf_cl32.txt
+./mcpat -infile mcf_cl128.xml -print_level 5 > mcf_cl128.txt
+
