@@ -287,6 +287,16 @@ cache line size 128 bytes: 0,202066544 J, EDP = 0,026082345
 ![Pie Charts](/lbm.png)
 
 
+**Πηγές:**
+
+www.gem5.org
+
+www.m5sim.org
+
+www.sciencedirect.com/topics/computer-science/set-associativity
+
+https://anysilicon.com/semipedia/
+
 
 
 
