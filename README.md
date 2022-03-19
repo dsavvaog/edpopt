@@ -4,8 +4,8 @@
 
 ## Εργαστήριο Β' - Ομάδα 14
  
-* Παπαδόπουλος Σωτήριος (Α.Ε.Μ. 4822, <swtos@ece.auth.gr>)
-* Σαββάογλου Δημήτριος  (Α.Ε.Μ. 9388, <dsavvaog@ece.auth.gr>)
+* 
+* 
 
 ### **3η Εργαστηριακή Άσκηση: Energy‐Delay‐Area Product Optimization**
 
